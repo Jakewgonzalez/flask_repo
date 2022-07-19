@@ -1,2 +1,7 @@
 # flask_repo
-demo website
+
+demo website using python and flask
+
+## notes
+
+test
