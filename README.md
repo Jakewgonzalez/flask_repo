@@ -4,4 +4,4 @@ demo website using python and flask
 
 ## notes
 
-test
+git/github learning
